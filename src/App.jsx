@@ -8,7 +8,7 @@ import MainLayout from "./layouts/main";
 function App() {
   const router = createBrowserRouter([
     {
-      path: "/",
+      path: "",
       element: <MainLayout />,
       children: [
         {

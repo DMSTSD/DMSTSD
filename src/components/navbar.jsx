@@ -1,28 +1,28 @@
-import { Link } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 import { Menu, X } from "lucide-react";
 import { useState } from "react";
 
 function NavLinks() {
   return (
     <>
-      <Link
+      <NavLink
         className="ml-[25px] font-semibold hover:text-gray-500"
         to="2d-work"
       >
         2d work
-      </Link>
-      <Link
+      </NavLink>
+      <NavLink
         className="ml-[25px] font-semibold hover:text-gray-500"
-        to="/3d-work"
+        to="3d-work"
       >
         3d work
-      </Link>
-      <Link
+      </NavLink>
+      <NavLink
         className="ml-[25px] font-semibold hover:text-gray-500"
         to="4th-work"
       >
         4th work
-      </Link>
+      </NavLink>
     </>
   );
 }

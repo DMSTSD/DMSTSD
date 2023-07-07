@@ -1,5 +1,9 @@
 import React from "react";
 
 export default function ThirdWork() {
-  return <></>;
+  return (
+    <>
+      <div className="min-h-screen"></div>
+    </>
+  );
 }

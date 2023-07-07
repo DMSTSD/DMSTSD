@@ -24,7 +24,7 @@ function TypicalAnimation() {
         </span>
       </p>
       <div className="flex justify-center">
-        <p className="flex flex-col leading-tight lg:text-6xl sm:text-2xl md:text-4xl">
+        <p className="flex flex-col lg:leading-[1.2] lg:text-6xl sm:leading-[1] sm:text-4xl md:leading-[1] md:text-4xl">
           <span className="flex justify-center">
             I create value through design
           </span>
