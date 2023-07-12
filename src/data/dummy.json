@@ -1,0 +1,60 @@
+{
+  "second_page": {
+    "cards": [
+      {
+        "page_link": "/",
+        "image": "/smple-image.jpg"
+      },
+      {
+        "page_link": "/",
+        "image": "/smple-image.jpg"
+      },
+      {
+        "page_link": "/",
+        "image": "/smple-image.jpg"
+      },
+      {
+        "page_link": "/",
+        "image": "/smple-image.jpg"
+      }
+    ]
+  },
+
+  "3d_page": [
+    {
+      "page_link": "/",
+      "image": "/smple-image.jpg"
+    },
+    {
+      "page_link": "/",
+      "image": "/smple-image.jpg"
+    },
+    {
+      "page_link": "/",
+      "image": "/smple-image.jpg"
+    },
+    {
+      "page_link": "/",
+      "image": "/smple-image.jpg"
+    }
+  ],
+
+  "4th_page": [
+    {
+      "page_link": "/",
+      "image": "/smple-image.jpg"
+    },
+    {
+      "page_link": "/",
+      "image": "/smple-image.jpg"
+    },
+    {
+      "page_link": "/",
+      "image": "/smple-image.jpg"
+    },
+    {
+      "page_link": "/",
+      "image": "/smple-image.jpg"
+    }
+  ]
+}
