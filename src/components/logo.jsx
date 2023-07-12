@@ -1,4 +1,5 @@
 import { NavLink } from "react-router-dom";
+import Spline from "@splinetool/react-spline";
 
 const Logo = () => {
   return (
@@ -25,3 +26,13 @@ export const UserAvatar = () => {
     </div>
   );
 };
+
+// export function UserAvatarr() {
+//   return (
+//     <>
+//       <div className="bg-cover bg-center">
+//         <Spline scene="https://prod.spline.design/jx758kg6GUR6DZ8g/scene.splinecode" />
+//       </div>
+//     </>
+//   );
+// }
