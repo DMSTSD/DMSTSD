@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DMSTS Dissanayake</h1>
-<h3 align="center">An UI/UX designer from Sri Lanka</h3>
+<h3 align="center">UI / UX designer</h3>
 
 <p align="center">I'm a UI/UX designer and front-end enthusiast  with a passion for creating exceptional digital experiences. My quick learning abilities allow me to stay up-to-date with the latest technologies, ensuring I deliver top-notch designs and responsive websites. I love collaborating with teams, fostering a harmonious work environment to achieve remarkable results. Let's connect and bring innovation to life!</p>
 
